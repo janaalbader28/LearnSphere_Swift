@@ -1,9 +1,3 @@
-//
-//  ContentView.swift
-//  LearnSphere
-//
-//  Created by Shamma Sami on 11/11/1446 AH.
-//
 
 import SwiftUI
 
