@@ -1,9 +1,3 @@
-//
-//  g.swift
-//  LearnSphere
-//
-//  Created by Jana on 07/05/2025.
-//
 
 import SwiftUI
 import PhotosUI
@@ -22,7 +16,6 @@ struct ImagePicker: UIViewControllerRepresentable {
     }
 
     func updateUIViewController(_ uiViewController: PHPickerViewController, context: Context) {
-        // No updates needed
     }
 
     func makeCoordinator() -> Coordinator {
