@@ -1,9 +1,3 @@
-//
-//  LearnSphereUITests.swift
-//  LearnSphereUITests
-//
-//  Created by Shamma Sami on 11/11/1446 AH.
-//
 
 import XCTest
 
