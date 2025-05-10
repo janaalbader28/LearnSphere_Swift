@@ -1,9 +1,4 @@
-//
-//  GraphicalDatePicker.swift
-//  LearnSphere
-//
-//  Created by Jana on 09/05/2025.
-//
+
 
 import SwiftUI
 
