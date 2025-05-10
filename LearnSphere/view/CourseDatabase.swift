@@ -1,9 +1,3 @@
-//
-//  CourseDatabase.swift
-//  LearnSphere
-//
-//  Created by Jana on 10/05/2025.
-//
 
 import SQLite
 import Foundation
