@@ -1,6 +1,5 @@
 # LearnSphere (Swift)
-Empowering Tech Learning in Saudi Arabia
-
+**Empowering Tech Learning in Saudi Arabia**
 ![Learnsphere Logo](logo.png)  
 
 ## Overview  
