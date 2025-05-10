@@ -1,9 +1,4 @@
-//
-//  home.swift
-//  LearnSphere
-//
-//  Created by Jana on 07/05/2025.
-//
+
 import SwiftUI
 
 struct Home: View {
