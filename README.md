@@ -1,6 +1,6 @@
 # LearnSphere (Swift)
 **Empowering Tech Learning in Saudi Arabia**
-![Learnsphere Logo](logo.png)  
+![Learnsphere Logo](assets/logo.png)  
 
 ## Overview  
 Learnsphere is an educational app designed to provide users in Saudi Arabia with online and in-person courses in tech fields like AI, UX/UI design, and programming.  
