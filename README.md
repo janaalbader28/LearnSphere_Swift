@@ -8,7 +8,7 @@ This repository hosts the Swift-based version of the app, compatible with iOS de
 Looking for the Android version? Check it out here: [LearnSphere_Android](https://github.com/janaalbader28/LearnSphere_Android)
 
 ## 📽 Demo
-![LearnSphere Demo](demo.mp4)   <!-- plays inline -->
+[![Watch the demo](assets/demo-thumb.png)](https://youtube.com/shorts/VwQ2l3VSW7g?si=Vxaps0EdtZlRvfNd)
 
 ## Features  
 
